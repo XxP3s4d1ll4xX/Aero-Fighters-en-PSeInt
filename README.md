@@ -6,7 +6,7 @@ Un juego de arcade tipo "shoot 'em up" recreado en pseudocódigo, diseñado para
 
 ## 🎮 Descripción
 
-Controlás una nave que se mueve en la fila inferior de un mapa de 12x9, esquivando obstáculos (`+`) que caen desde arriba. Cada obstáculo esquivado suma puntos, y de vez en cuando aparecen power-ups:
+Controlas una nave que se mueve en la fila inferior de un mapa de 12x9, esquivando obstáculos (`+`) que caen desde arriba. Cada obstáculo esquivado suma puntos, y de vez en cuando aparecen power-ups:
 
 - **R** → Rayo láser: dispara en 3 columnas a la vez.
 - **B** → Bomba: explota en un área de 3x3 alrededor del impacto.
