@@ -26,7 +26,7 @@ A lo largo de la partida puede aparecer un power-up:
 
 | Nivel | Efecto |
 |-------|--------|
-| 1 | Disparo simple, una columna |
+| 1 | Disparo simple |
 | 2 | Disparo triple |
 | 3 | Disparo perforador  |
 
@@ -34,11 +34,11 @@ A lo largo de la partida puede aparecer un power-up:
 
 1. Descargá e instalá [PSeInt](http://pseint.sourceforge.net/).
 2. Abrí el archivo `AeroFightersV2.psc` desde PSeInt.
-3. Activá la opción de **usar PSeInt en estricto** (Configurar → Editor → Utilizar los patrones del "Modo Estricto"), ya que el código está escrito bajo esas reglas de sintaxis.
-4. Ejecutá el algoritmo (`F2` o el botón de Run).
+3. Configurar a modo estricto.
+4. Ejecuta el algoritmo (`F2` o el botón de Run).
 5. Movete con `a`/`d` y disparás con `w`, `r` o `b` para avanzar cada turno.
 
-## 🚧 Pendiente
+## 🚧 PROXIMAMENTE....
 
 - [ ] Sistema de puntaje
 - [ ] Jefe final (boss) como condición de victoria
